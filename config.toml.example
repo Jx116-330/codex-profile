@@ -1,0 +1,11 @@
+# Portable user defaults. Copy selected settings to ~/.codex/config.toml.
+# Do not put API keys, auth tokens, machine paths, or MCP executable paths here.
+
+model = "gpt-5.6-sol"
+model_reasoning_effort = "high"
+personality = "pragmatic"
+
+[features]
+goals = true
+memories = true
+

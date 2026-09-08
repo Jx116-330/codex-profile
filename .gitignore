@@ -1,0 +1,13 @@
+# Local Codex state and secrets
+config.toml
+auth.json
+*.sqlite
+*.sqlite-*
+sessions/
+logs/
+cache/
+attachments/
+generated_images/
+browser/
+plugins/cache/
+
